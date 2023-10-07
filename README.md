@@ -1,4 +1,5 @@
 ![ Тут должен быть header, но его тут нет :( ](https://github.com/dreamybo1/dreamybo1/blob/main/header.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+developer)](https://git.io/typing-svg)
 
 <!--
 **dreamybo1/dreamybo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
