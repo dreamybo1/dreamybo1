@@ -17,7 +17,7 @@
 ### Pet-projects
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamybo1)](https://github.com/dreamybo1/github-readme-stats)
 
-Маленький (small):  
+
 [![codewars](https://www.codewars.com/users/dreamybo1/badges/small)](https://www.codewars.com/users/dreamybo1) 
 
 <!--
