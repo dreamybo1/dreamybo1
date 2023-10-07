@@ -20,6 +20,7 @@
 
 [![codewars](https://www.codewars.com/users/dreamybo1/badges/small)](https://www.codewars.com/users/dreamybo1) 
 
+![](https://komarev.com/ghpvc/?username=dreamybo1)
 <!--
 **dreamybo1/dreamybo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
