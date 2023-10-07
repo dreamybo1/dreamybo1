@@ -1,4 +1,3 @@
-### Hi there 👋
 ![ Тут должен быть header, но его тут нет :( ](https://github.com/dreamybo1/dreamybo1/blob/main/header.png)
 
 <!--
