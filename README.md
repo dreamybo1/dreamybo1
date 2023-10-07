@@ -1,5 +1,5 @@
 ### Hi there 👋
-![ Тут должен быть header, но его тут нет :( ]([https://github.com/dreamybo1/dreamybo1/header.png](https://github.com/dreamybo1/dreamybo1/blob/main/header.png))
+![ Тут должен быть header, но его тут нет :( ](https://github.com/dreamybo1/dreamybo1/blob/main/header.png)
 
 <!--
 **dreamybo1/dreamybo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
