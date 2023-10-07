@@ -16,6 +16,10 @@
 ![React Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Pet-projects
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamybo1)](https://github.com/dreamybo1/github-readme-stats)
+
+Маленький (small):  
+[![codewars](https://www.codewars.com/users/dreamybo1/badges/small)](https://www.codewars.com/users/dreamybo1) 
+
 <!--
 **dreamybo1/dreamybo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
