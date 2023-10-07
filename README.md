@@ -15,7 +15,7 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Pet-projects
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamybo1)](https://github.com/dreamybo1/MoviesDB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamybo1&repo=MoviesDB)](https://github.com/dreamybo1/MoviesDB)
 
 ### Дополнительно
 [![codewars](https://www.codewars.com/users/dreamybo1/badges/large)](https://www.codewars.com/users/dreamybo1) 
