@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamybo1)](https://github.com/dreamybo1/github-readme-stats)
 
 
-[![codewars](https://www.codewars.com/users/dreamybo1/badges/small)](https://www.codewars.com/users/dreamybo1) 
+[![codewars](https://www.codewars.com/users/dreamybo1/badges/large)](https://www.codewars.com/users/dreamybo1) 
 
 ![](https://komarev.com/ghpvc/?username=dreamybo1)
 <!--
