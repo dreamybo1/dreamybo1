@@ -15,6 +15,7 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Pet-projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamybo1&repo=contacts-list-react)](https://github.com/dreamybo1/contacts-list-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamybo1&repo=MoviesDB)](https://github.com/dreamybo1/MoviesDB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamybo1&repo=ToDoReact)](https://github.com/dreamybo1/ToDoReact)
 
